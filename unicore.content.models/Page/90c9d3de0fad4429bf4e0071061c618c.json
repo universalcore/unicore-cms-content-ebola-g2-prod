@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "1. What is Ebola virus disease?", 
+  "language": "eng_GB", 
+  "title": "1. What is Ebola virus disease?", 
+  "primary_category": "cad06d3b516d4563b56de0a3660beb4b", 
+  "created_at": "2015-04-22T05:53:25.394111+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T05:53:25.394483+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ebola virus disease (formerly known as Ebola haemorrhagic fever) is a severe, often fatal illness, with a death rate of up to 90%. The illness affects humans and nonhuman primates (monkeys, gorillas, and chimpanzees).\r\n\r\nEbola first appeared in 1976 in two simultaneous outbreaks, one in a village near the Ebola River in the Democratic Republic of Congo, and the other in a remote area of Sudan.\r\n\r\nThe origin of the virus is unknown but fruit bats (Pteropodidae) are considered the likely host of the Ebola virus, based on available evidence.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "1-what-ebola-virus-disease", 
+  "uuid": "90c9d3de0fad4429bf4e0071061c618c"
+}
