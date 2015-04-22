@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "4. What are typical signs and symptoms of infection?", 
+  "language": "fre_FR", 
+  "title": "4. What are typical signs and symptoms of infection?", 
+  "primary_category": "cad06d3b516d4563b56de0a3660beb4b", 
+  "created_at": "2015-04-22T05:56:35.423542+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T05:56:35.423793+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Sudden onset of fever, intense weakness, muscle pain, headache and\r\nsore throat are typical signs and symptoms. This is followed by vomiting, diarrhoea, rash, impaired kidney and liver function, and in some cases, both internal and external bleeding.\r\n\r\nLaboratory findings include low white blood cell and platelet counts, and elevated liver enzymes.\r\n\r\nThe incubation period, or the time interval from infection to onset of symptoms, is from 2 to 21 days. The patients become contagious once they begin to show symptoms. They are not contagious during the incubation period.\r\n\r\nEbola virus disease infections can only be confirmed through laboratory testing.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "who-is-most-at-risk", 
+  "uuid": "88b6d5656c64497aaff1bf645de6dbc2"
+}
