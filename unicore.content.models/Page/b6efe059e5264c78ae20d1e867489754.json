@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "11. During an outbreak, numbers of cases reported by health officials can go up and down? Why?", 
+  "language": "eng_GB", 
+  "title": "11. During an outbreak, numbers of cases reported by health officials can go up and down? Why?", 
+  "primary_category": "cad06d3b516d4563b56de0a3660beb4b", 
+  "created_at": "2015-04-22T06:12:03.032557+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T06:12:03.032961+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "During an Ebola outbreak, the affected country\u2019s public health authority reports its disease case numbers and deaths. Figures can change daily. Case numbers reflect both suspected cases and laboratory-confirmed cases of Ebola. Sometimes numbers of suspected and confirmed cases are reported together. Sometimes they are reported separately. Thus, numbers can shift between suspected and confirmed cases.\r\n\r\nAnalyzing case data trends, over time, and with additional information, is generally more helpful to assess the public health situation and determine the appropriate response.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-about-health-workers-how-should-they-protect-themselves-while-caring-for-patients", 
+  "uuid": "b6efe059e5264c78ae20d1e867489754"
+}
