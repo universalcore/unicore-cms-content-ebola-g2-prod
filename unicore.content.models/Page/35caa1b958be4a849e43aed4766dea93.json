@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "6. What is the treatment?", 
+  "language": "eng_GB", 
+  "title": "6. What is the treatment?", 
+  "primary_category": "cad06d3b516d4563b56de0a3660beb4b", 
+  "created_at": "2015-04-22T05:58:56.823051+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T05:58:56.823268+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Severely ill patients require intensive supportive care. They are frequently dehydrated and need intravenous fluids or oral rehydration with solutions that contain electrolytes. There is currently no specific treatment to cure the disease.\r\n\r\nSome patients will recover with the appropriate medical care.\r\n\r\nTo help control further spread of the virus, people that are suspected or confirmed to have the disease should be isolated from other patients and treated by health workers using strict infection control precautions.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "when-should-someone-seek-medical-care", 
+  "uuid": "35caa1b958be4a849e43aed4766dea93"
+}
