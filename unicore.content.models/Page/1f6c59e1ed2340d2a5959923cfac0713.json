@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "3. Who is most at risk?", 
+  "language": "fre_FR", 
+  "title": "3. Who is most at risk?", 
+  "primary_category": "cad06d3b516d4563b56de0a3660beb4b", 
+  "created_at": "2015-04-22T05:55:53.176503+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T05:55:53.176705+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "During an outbreak, those at higher risk of infection are:\r\n\r\n - health workers;\r\n\r\n- family members or others in close contact with infected people;\r\n\r\n- mourners who have direct contact with the bodies of the deceased as part of burial ceremonies.\r\n\r\nMore research is needed to understand if some groups, such as immuno- compromised people or those with other underlying health conditions, are more susceptible than others to contracting the virus.\r\n\r\nExposure to the virus can be controlled through the use of protective measures in clinics and hospitals, at community gatherings, or at home.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-ebola-be-transmitted-through-sex", 
+  "uuid": "1f6c59e1ed2340d2a5959923cfac0713"
+}
